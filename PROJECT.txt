@@ -1,6 +1,10 @@
-author : @author
-date   : @date
-rev    : @revision
+@filesource
+
+* @version $Revision$
+* @modifiedby $LastChangedBy$
+* @lastmodified $Date$
+* @author $Author$
+* @license http://www.opensource.org/licenses/mit-license.php The MIT License
 
 
 CODE ORGANIZATION
